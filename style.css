@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .more_inf {
+.header .more-info-button {
   font-family: fantasy, cursive;
 }
 
@@ -38,7 +38,7 @@ body {
   flex-grow: 1
 }
 
-.new-task-row-wrapper {
+.row-wrapper {
   display: flex;
 }
 
